@@ -1,4 +1,4 @@
-### Airline reservation system
+### Simulating dead locks
 
 ## How to run
 
